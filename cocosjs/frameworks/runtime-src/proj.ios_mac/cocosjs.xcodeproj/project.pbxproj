@@ -753,6 +753,7 @@
 				509D4ACA17EBB2BE00697056 /* mac */,
 				A922753E1517C094001B78AA /* Products */,
 				15628F5B15F0F5C2000CF24B /* Resources */,
+				D859EE9D1FE9089C0013DC65 /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -851,6 +852,14 @@
 			);
 			name = Classes;
 			path = ../Classes;
+			sourceTree = "<group>";
+		};
+		D859EE9D1FE9089C0013DC65 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				BA4E718619EB6E7900932425 /* MediaPlayer.framework */,
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 		FA0CDA461BC259E200B50E54 /* uv */ = {
