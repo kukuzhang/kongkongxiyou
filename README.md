@@ -1,4 +1,3 @@
-本人一人历时一年用cocos2d-js和pomelo从零开始开发MMORPG传奇手游《空空西游》，因新规无法上线，后工作投众多简历均石沉大海。 
 
 apk和iOS安装包放在百度网盘：http://pan.baidu.com/s/1o8mzthS，过了这个月阿里云服务器将过期。 
 整个项目的源代码和资源均发布在github上：https://github.com/linyouhappy/kongkongxiyou
@@ -63,4 +62,3 @@ apk和iOS安装包放在百度网盘：http://pan.baidu.com/s/1o8mzthS，过了�
 
 本项目完全由我一个人完成，授权大家随便使用该项目。使用和转发需要注明博客地址。
 教程：http://blog.csdn.net/linyouhappy
-答疑QQ群：277615647
